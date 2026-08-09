@@ -118,26 +118,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
   Free and open source billing and client management software.
 
-- **Custom Rating Engines & Event Processors**
-
-  Open-source libraries and frameworks for building custom usage aggregation, rating, and invoice generation pipelines.
-
-- **Stripe Billing + Open Components**
-
-  While Stripe itself is proprietary, many open-source tools and examples extend or integrate with usage-based billing flows.
-
-- **Invoice & PDF Generation Libraries**
-
-  Open-source tools commonly paired with metering engines to produce professional invoices and statements.
-
-- **Payment Orchestration & Dunning Tools**
-
-  Open-source components for retries, dunning, and multi-gateway payment handling that complement usage-based systems.
-
-- **Revenue Analytics Dashboards**
-
-  Open-source analytics projects that visualize usage, MRR, and revenue metrics from billing data.
-
 ### 🔧 Additional Strong Open-Source Options
 
 
