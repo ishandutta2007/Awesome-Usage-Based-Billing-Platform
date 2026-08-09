@@ -90,47 +90,51 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
   Mature open-source subscription billing and payments platform with extensive plugin architecture, analytics, and support for complex recurring and usage scenarios.
 
+- **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)
+
+  Open-source, developer-first billing infrastructure designed to handle complex, usage-based, and hybrid pricing models.
+
 - **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)
 
   Open-source usage metering and event aggregation platform that pairs well with billing engines for accurate consumption tracking.
 
-- **[BoxBilling](https://github.com/boxbilling/boxbilling)** [![GitHub stars](https://img.shields.io/github/stars/boxbilling/boxbilling?style=social&color=white)](https://github.com/boxbilling/boxbilling/stargazers)
+- **[Autumn](https://github.com/useautumn/autumn)** [![GitHub stars](https://img.shields.io/github/stars/useautumn/autumn?style=social&color=white)](https://github.com/useautumn/autumn/stargazers)
 
-  Free and open source billing and client management software.
+  Pricing and billing infrastructure platform for SaaS companies.
+
+- **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)
+
+  Emerging open-source metering and usage-tracking tools focused on developer-friendly event pipelines.
+
+- **[Lago API & Front-end Components](https://github.com/getlago/lago-api)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago-api?style=social&color=white)](https://github.com/getlago/lago-api/stargazers)
+
+  Core API, front-end, SDKs, and Helm charts that make up the complete Lago open-source billing stack.
 
 - **[BillRun](https://github.com/BillRun/system)** [![GitHub stars](https://img.shields.io/github/stars/BillRun/system?style=social&color=white)](https://github.com/BillRun/system/stargazers)
 
   Open-source enterprise billing and rating system designed for high-volume usage (originally telecom/CDR-focused) with real-time processing, mediation, and invoicing capabilities.
 
-- **[Lago API & Front-end Components](https://github.com/getlago)** [![GitHub stars](https://img.shields.io/github/stars/getlago?style=social&color=white)](https://github.com/getlago/stargazers)
+- **[BoxBilling](https://github.com/boxbilling/boxbilling)** [![GitHub stars](https://img.shields.io/github/stars/boxbilling/boxbilling?style=social&color=white)](https://github.com/boxbilling/boxbilling/stargazers)
 
-  Core API, front-end, SDKs, and Helm charts that make up the complete Lago open-source billing stack.
+  Free and open source billing and client management software.
 
-- **[Meteroid / similar metering projects](https://github.com/)**
-
-  Emerging open-source metering and usage-tracking tools focused on developer-friendly event pipelines.
-
-- **[Flexprice / Autumn-style open billing experiments](https://github.com/)**
-
-  Community and early-stage open-source projects exploring flexible pricing and usage-based invoicing.
-
-- **[Custom Rating Engines & Event Processors](https://github.com/)**
+- **Custom Rating Engines & Event Processors**
 
   Open-source libraries and frameworks for building custom usage aggregation, rating, and invoice generation pipelines.
 
-- **[Stripe Billing + Open Components](https://github.com/)**
+- **Stripe Billing + Open Components**
 
   While Stripe itself is proprietary, many open-source tools and examples extend or integrate with usage-based billing flows.
 
-- **[Invoice & PDF Generation Libraries](https://github.com/)**
+- **Invoice & PDF Generation Libraries**
 
   Open-source tools commonly paired with metering engines to produce professional invoices and statements.
 
-- **[Payment Orchestration & Dunning Tools](https://github.com/)**
+- **Payment Orchestration & Dunning Tools**
 
   Open-source components for retries, dunning, and multi-gateway payment handling that complement usage-based systems.
 
-- **[Revenue Analytics Dashboards](https://github.com/)**
+- **Revenue Analytics Dashboards**
 
   Open-source analytics projects that visualize usage, MRR, and revenue metrics from billing data.
 
