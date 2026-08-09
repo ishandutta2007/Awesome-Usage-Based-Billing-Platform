@@ -1,4 +1,18 @@
-# Awesome-Usage-Based-Billing-Platform
+# 🚀 Awesome-Usage-Based-Billing-Platform
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Usage-Based Billing Platform Banner"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+## 🌟 Top Usage-Based Billing Platforms Ecosystem
+
+**Curated List of SaaS Products & Open-Source GitHub Projects** for developers and businesses.
+*Focused on Metering, Usage-Based Pricing, Event Ingestion, Hybrid Billing, Invoicing & Revenue Infrastructure.*
+
 
 ## Top Usage-Based Billing Platforms Ecosystem
 
@@ -40,159 +54,87 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 
 
-- **[Metronome](https://metronome.com/)**  
-
-  Enterprise-grade usage-based billing platform specializing in high-volume metering, complex contracts, commitments, credits, and real-time rating (now closely integrated with Stripe).
-
-
-
-- **[m3ter](https://m3ter.com/)**  
-
-  Usage metering and billing platform focused on accurate event aggregation, flexible pricing, and revenue operations (acquired/integrated with Salesforce ecosystem).
-
-
-
-- **[Sequence](https://www.sequencehq.com/)**  
-
-  Modern billing infrastructure for usage-based and hybrid pricing models with strong developer experience.
-
-
-
-- **[Amberflo](https://www.amberflo.io/)**  
-
-  Cloud-native metering and usage-based billing platform designed for real-time usage tracking and flexible monetization.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limit / Trial | Valuation/Revenue |
+|----------|-------------|-------------------------|-------------------------|-------------------|
+|----------|-------------|-------------------------|-------------------------|
+| **[Chargebee](https://www.chargebee.com/)** | Popular subscription billing platform that also supports metered/usage-based charges and hybrid pricing models. | Starts at $599/month | Free forever up to $250,000 cumulative billing (Startup Plan) | $3.5B |
+| **[BillingPlatform](https://billingplatform.com/)** | Enterprise billing and revenue management system supporting usage, subscription, and hybrid models. | Est. $200,000+/year (Contact Sales) | No free trial, demo only | $100M+ |
+| **[Metronome](https://metronome.com/)** | Enterprise-grade usage-based billing platform specializing in high-volume metering, complex contracts, commitments, credits, and real-time rating (now closely integrated with Stripe). | Est. $200,000+/year (Contact Sales) | Sandbox environment only, no free trial | $50M+ |
+| **[Gotransverse](https://www.gotransverse.com/)** | Enterprise billing platform capable of handling complex usage, subscription, and hybrid pricing at scale. | Enterprise quote required | No free trial, demo only | $50M+ |
+| **[m3ter](https://m3ter.com/)** | Usage metering and billing platform focused on accurate event aggregation, flexible pricing, and revenue operations (acquired/integrated with Salesforce ecosystem). | Enterprise quote required | No free trial available | $20M+ |
+| **[Zenskar](https://www.zenskar.com/)** | Usage-based billing and revenue management solution supporting complex pricing and invoicing workflows. | Est. $15,000+/year (Contact Sales) | 14-day trial phase available | $20M+ |
+| **[Orb](https://www.withorb.com/)** | Developer-friendly usage-based billing platform with powerful metrics, real-time visibility, and flexible pricing simulation (now part of the Adyen ecosystem). | Enterprise quote (Est. ~$720/mo) | No free trial, demo only | $20M+ |
+| **[Ordway](https://ordwaylabs.com/)** | Revenue and billing platform with strong support for usage-based and recurring revenue scenarios. | Mid-market quote required | No free trial, demo only | $20M+ |
+| **[Amberflo](https://www.amberflo.io/)** | Cloud-native metering and usage-based billing platform designed for real-time usage tracking and flexible monetization. | Pay-as-you-go | 30-day free trial | $15M+ |
+| **[Sequence](https://www.sequencehq.com/)** | Modern billing infrastructure for usage-based and hybrid pricing models with strong developer experience. | Starts at $799/month | No free trial, demo only | $10M+ |
+| **[Togai](https://www.togai.com/)** | Metering and usage-based pricing engine focused on flexible event processing and billing automation. | $0 upfront (Starter plan) | Free forever up to 1M events or $10,000 billed | $10M+ |
+| **[Kill Bill (Cloud / Hosted options)](https://killbill.io/)** | Hosted and commercial offerings built on the open-source Kill Bill subscription and billing platform. | Starts at ~$40/month + AWS resources | Free hosted sandbox available | N/A |
 
 
 
-- **[Zenskar](https://www.zenskar.com/)**  
+## 💻 Open-Source GitHub Projects
 
-  Usage-based billing and revenue management solution supporting complex pricing and invoicing workflows.
-
-
-
-- **[Orb](https://www.withorb.com/)**  
-
-  Developer-friendly usage-based billing platform with powerful metrics, real-time visibility, and flexible pricing simulation (now part of the Adyen ecosystem).
-
-
-
-- **[BillingPlatform](https://billingplatform.com/)**  
-
-  Enterprise billing and revenue management system supporting usage, subscription, and hybrid models.
-
-
-
-- **[Ordway](https://ordwaylabs.com/)**  
-
-  Revenue and billing platform with strong support for usage-based and recurring revenue scenarios.
-
-
-
-- **[Togai](https://www.togai.com/)**  
-
-  Metering and usage-based pricing engine focused on flexible event processing and billing automation.
-
-
-
-- **[Gotransverse](https://www.gotransverse.com/)**  
-
-  Enterprise billing platform capable of handling complex usage, subscription, and hybrid pricing at scale.
-
-
-
-- **[Chargebee](https://www.chargebee.com/)**  
-
-  Popular subscription billing platform that also supports metered/usage-based charges and hybrid pricing models.
-
-
-
-- **[Kill Bill (Cloud / Hosted options)](https://killbill.io/)**  
-
-  Hosted and commercial offerings built on the open-source Kill Bill subscription and billing platform.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Lago](https://github.com/getlago/lago)**  
+- **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)
 
   Leading open-source metering and usage-based billing platform supporting event ingestion, flexible pricing (subscription + usage + hybrid), invoicing, entitlements, and payment orchestration. Fully self-hostable.
 
+- **[Crater](https://github.com/crater-invoice/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)
 
+  Free & Open Source Invoice App for Freelancers & Small Businesses.
 
-- **[Kill Bill](https://github.com/killbill/killbill)**  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
 
   Mature open-source subscription billing and payments platform with extensive plugin architecture, analytics, and support for complex recurring and usage scenarios.
 
-
-
-- **[BillRun](https://github.com/BillRun/system)**  
-
-  Open-source enterprise billing and rating system designed for high-volume usage (originally telecom/CDR-focused) with real-time processing, mediation, and invoicing capabilities.
-
-
-
-- **[Lago API & Front-end Components](https://github.com/getlago)**  
-
-  Core API, front-end, SDKs, and Helm charts that make up the complete Lago open-source billing stack.
-
-
-
-- **[OpenMeter](https://github.com/openmeterio/openmeter)**  
+- **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)
 
   Open-source usage metering and event aggregation platform that pairs well with billing engines for accurate consumption tracking.
 
+- **[BoxBilling](https://github.com/boxbilling/boxbilling)** [![GitHub stars](https://img.shields.io/github/stars/boxbilling/boxbilling?style=social&color=white)](https://github.com/boxbilling/boxbilling/stargazers)
 
+  Free and open source billing and client management software.
 
-- **[Meteroid / similar metering projects](https://github.com/)**  
+- **[BillRun](https://github.com/BillRun/system)** [![GitHub stars](https://img.shields.io/github/stars/BillRun/system?style=social&color=white)](https://github.com/BillRun/system/stargazers)
+
+  Open-source enterprise billing and rating system designed for high-volume usage (originally telecom/CDR-focused) with real-time processing, mediation, and invoicing capabilities.
+
+- **[Lago API & Front-end Components](https://github.com/getlago)** [![GitHub stars](https://img.shields.io/github/stars/getlago?style=social&color=white)](https://github.com/getlago/stargazers)
+
+  Core API, front-end, SDKs, and Helm charts that make up the complete Lago open-source billing stack.
+
+- **[Meteroid / similar metering projects](https://github.com/)**
 
   Emerging open-source metering and usage-tracking tools focused on developer-friendly event pipelines.
 
-
-
-- **[Flexprice / Autumn-style open billing experiments](https://github.com/)**  
+- **[Flexprice / Autumn-style open billing experiments](https://github.com/)**
 
   Community and early-stage open-source projects exploring flexible pricing and usage-based invoicing.
 
-
-
-- **[Custom Rating Engines & Event Processors](https://github.com/)**  
+- **[Custom Rating Engines & Event Processors](https://github.com/)**
 
   Open-source libraries and frameworks for building custom usage aggregation, rating, and invoice generation pipelines.
 
-
-
-- **[Stripe Billing + Open Components](https://github.com/)**  
+- **[Stripe Billing + Open Components](https://github.com/)**
 
   While Stripe itself is proprietary, many open-source tools and examples extend or integrate with usage-based billing flows.
 
-
-
-- **[Invoice & PDF Generation Libraries](https://github.com/)**  
+- **[Invoice & PDF Generation Libraries](https://github.com/)**
 
   Open-source tools commonly paired with metering engines to produce professional invoices and statements.
 
-
-
-- **[Payment Orchestration & Dunning Tools](https://github.com/)**  
+- **[Payment Orchestration & Dunning Tools](https://github.com/)**
 
   Open-source components for retries, dunning, and multi-gateway payment handling that complement usage-based systems.
 
-
-
-- **[Revenue Analytics Dashboards](https://github.com/)**  
+- **[Revenue Analytics Dashboards](https://github.com/)**
 
   Open-source analytics projects that visualize usage, MRR, and revenue metrics from billing data.
 
-
-
-### Additional Strong Open-Source Options
+### 🔧 Additional Strong Open-Source Options
 
 
 
@@ -212,7 +154,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
 
 
@@ -230,7 +172,7 @@ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 
 
@@ -249,3 +191,13 @@ Star the repo if you find it useful!
 **Made for SaaS founders, AI/cloud companies, billing engineers, and revenue teams.**  
 
 Let's make usage-based billing more open, flexible, and under your control.
+## ⭐ Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Usage-Based-Billing-Platform&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Usage-Based-Billing-Platform&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Usage-Based-Billing-Platform&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Usage-Based-Billing-Platform&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
